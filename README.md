@@ -22,14 +22,23 @@
 - Number inputs
 
 JavaScript Feature
+
 -Validates required fields (text, email, number, date)
+
 -Ensures full name has no numbers
+
 -Checks phone number is exactly 10 digits
+
 -Validates email format (must end with @gmail.com)
+
 -Requires dropdown selections
+
 -Ensures a gender option is selected
+
 -Highlights invalid fields with red borders
+
 -Displays custom error messages
+
 -Shows success alert on valid submission
 
 ---
